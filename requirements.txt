@@ -1,0 +1,12 @@
+Django>=4.2
+djangorestframework
+pandas
+numpy
+scikit-learn
+tensorflow
+matplotlib
+Pillow
+python-dotenv
+django-crispy-forms
+joblib
+gunicorn
